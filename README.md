@@ -8,12 +8,12 @@
 
 ## Задания
 
-- **[Задание 1](/SecondAttestation/Task01/README.md)**
-- **[Задание 2](/SecondAttestation/Task02/README.md)**
-- **[Задание 3](/SecondAttestation/Task03/README.md)**
-- **[Задание 4](/SecondAttestation/Task04/README.md)**
-- **[Задание 5](/SecondAttestation/Task05/README.md)**
-- **[Задание 6](/SecondAttestation/Task06/README.md)**
+- **[Задание 1](/SecondAttestation/Task01)**
+- **[Задание 2](/SecondAttestation/Task02)**
+- **[Задание 3](/SecondAttestation/Task03)**
+- **[Задание 4](/SecondAttestation/Task04)**
+- **[Задание 5](/SecondAttestation/Task05)**
+- **[Задание 6](/SecondAttestation/Task06)**
 
 ## Полезные источники
 
