@@ -23,6 +23,7 @@
 - **[Задание 8](/ThirdAttestation/Task08)**
 - **[Задание 9](/ThirdAttestation/Task09)**
 - **[Задание 10](/ThirdAttestation/Task10)**
+- **[Задание 11](/ThirdAttestation/Task11)** - прочитайте предупреждение!
 
 ## Полезные источники
 
